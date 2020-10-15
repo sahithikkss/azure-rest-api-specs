@@ -1082,7 +1082,7 @@
         },
         "enableMultipleLanguages": {
           "type": "boolean",
-          "description": "Setting to enable or disable creating KBs in different languages for the same resource."
+          "description": "Set to true to enable creating KBs in different languages for the same resource."
         },
         "defaultAnswer": {
           "type": "string",
